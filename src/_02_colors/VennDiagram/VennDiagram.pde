@@ -10,3 +10,11 @@ ellipse(200, 250, 250, 250);
 fill(0, 0, 0, 255);
 textSize(25);
 text("Laziness" ,150, 250);
+
+fill(0, 0, 0, 255);
+textSize(25);
+text("Funny" , 370,250);
+
+fill(0, 0, 0, 255);
+textSize(25);
+text("Loyal" , 270, 420);
